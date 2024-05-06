@@ -3,6 +3,7 @@
 #### Technical Skills: Research, Python, Google Earth Engine, 
 
 ## Education
+
 B.S., Statistics | Cebu Technological University - Main (_August 2023_)
 
 Science, Technology, Engineering, and Mathematics STEM | Babag National Senior High School (_August 2021_)
