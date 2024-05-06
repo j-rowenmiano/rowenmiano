@@ -36,6 +36,8 @@ Academic, STEM | Babag National Senior High School (_August 2021_)
 
 Developed a disaster navigation app using **Flutter**, **Firebase**, and **Google Maps API** that offers users the shortest and most optimal routes to their destinations. The app qualified as a Semi-Finalist for **Solve: Solutions Challenge Visayas**.
 
+![Exscort](/assets/ex_scort.png)
+
 ### Phytochemicals of _Euphorbia tirucalli_ and Their Inhibitory Potential Against _Xanthomonas oryzae_ Ddl Enzyme: An _In silico_ Evaluation for Potential Agrochemical
 
 Conducted a molecular docking of 8 (eight) phytochemicals from _Euphorbia tirucalli_ onto the _Xanthomonas oryzae_ Ddl enzyme and evaluated their drug-likeness and toxicity risk. For the methodology, I acquired the appropriate structure data files of the proteins and ligands from databases such as **PubChem** and **RCSB Protein Data Bank**. To enhance efficiency, I utilized molecular docking softwares and web-based interfaces such as **AutoDock Vina**, **Avogadro**, **PyMol**, **LigPlot**, **SwissAdme**, and **Osiris Property Explorer**. The study revealed that **Afzelin** is a potential _Xanthomonas oryzae_ Ddl enzyme inhibitor with strong binding energy, drug-likeness, and no toxicity risks.
