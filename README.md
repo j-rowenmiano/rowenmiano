@@ -4,6 +4,7 @@
 
 ## Education
 B.S., Statistics | Cebu Technological University - Main (_August 2023_)
+
 Science, Technology, Engineering, and Mathematics STEM | Babag National Senior High School (_August 2021_)
 
 ## Work Experience
@@ -33,6 +34,7 @@ Science, Technology, Engineering, and Mathematics STEM | Babag National Senior H
 
 ### Temporal Analysis of Heat Index Variability in Cebu City, Philippines: Insights from 2017-2023
 
+Assessing the heat index of Cebu City for a span of 6 years, applying exploratory data analysis and time series in **Python** to explore patterns and trends for the past couple years and predict heat index values for the following years.
 
 
 ### Exscort - Disaster Navigation App
