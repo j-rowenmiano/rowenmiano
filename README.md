@@ -48,5 +48,4 @@ Conducted a molecular docking of 8 (eight) phytochemicals from _Euphorbia tiruca
 
 Fabricated a drowsiness detection embedded in a watch-like device through **photoplethysmography technology**. The researchers assessed the accuracy of heart beat detection by comparing our device to a standard pulse oximeter. The study revealed that VibroWake has an accuracy of **90.92%** in terms of heart rate detection during different conditions such as sleeping, resting, and during motion.
 
-![VibroWake](/assets/wake_one.png)
-![VibroWake](/assets/wake_two.png)
+![VibroWake](/assets/vibro_wake.png)
