@@ -1,4 +1,4 @@
-# Statistics Student | Student Researcher | Science Communicator | Aspiring Data Scientist
+# Statistics Student | Aspiring Data Scientist
 
 #### Technical Skills: Python, Google Earth Engine
 
