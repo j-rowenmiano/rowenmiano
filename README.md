@@ -4,6 +4,7 @@
 
 ## Education
 B.S., Statistics | Cebu Technological University - Main (_August 2023_)
+
 Academic, STEM | Babag National Senior High School (_August 2021_)
 
 ## Work Experience
