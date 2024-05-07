@@ -59,6 +59,7 @@ Fabricated a drowsiness detection system embedded in a watch-like device through
 ![VibroWake](/assets/vibro_wake.png)
 
 
+
 ## Honors and Awards
 
 **3rd Place** - CTU Blockchain Ideathon
