@@ -1,12 +1,12 @@
 # Statistics Student | Researcher
 
-#### Technical Skills: Research, Python, Google Earth Engine, 
+#### Technical Skills: Research, Python, Google Earth Engine
 
 ## Education
 
 B.S., Statistics | Cebu Technological University - Main (_August 2023_)
 
-Science, Technology, Engineering, and Mathematics STEM | Babag National Senior High School (_August 2021_)
+Academic,STEM | Babag National Senior High School (_August 2021_)
 
 ## Work Experience
 **Ambassador @ SEDS Philippines (_April 2024 - Present_)**
@@ -57,3 +57,29 @@ Conducted a molecular docking of 8 (eight) phytochemicals from _Euphorbia tiruca
 Fabricated a drowsiness detection system embedded in a watch-like device through **photoplethysmography technology**. We the researchers assessed the accuracy of heart beat detection by comparing our device to a standard pulse oximeter. The study revealed that VibroWake has an accuracy of **90.92%** against the standard pulse oximeter in terms of heart rate detection during different conditions such as sleeping, resting, and during motion.
 
 ![VibroWake](/assets/vibro_wake.png)
+
+
+## Honors and Awards
+
+**3rd Place** - CTU Blockchain Ideathon
+
+**Champion** - Premier SciTech Olympiad
+
+**Semi-Finalist** - Solve: Solutions Challenge Visayas
+
+**2nd Runner Up** - Math-Stat Intercollegiate Quizzard
+
+**2nd Runner Up** - DOST SA CEBU Panem Quest: An Intercollegiate Battle of Scholarly Tributes
+
+**Champion** - Survey Making Contest, 34th National Statistics Month
+
+**Top 3 Regional Finalist** - SIBOL Outstanding Student Creative Research High School Category, Regional Inventions and Contest Exhibits by Cluster (ClusteRICE)
+
+**Best Research Presenter** - Babag National High School 4th Research Congress
+
+**3rd Place** - TUKLAS Life Science Research, Division Science and Technology Fair 2023
+
+**National Finalist** - LIKHA Mathematical and Computational Science Research, National Science and Technology Fair 2022
+
+**Champion** - LIKHA Mathematical and Computational Science Research, Regional Science and Technology Fair 2022
+
