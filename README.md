@@ -33,12 +33,12 @@ Academic, STEM | Babag National Senior High School (_August 2021_)
 
 ## Projects
 
-### Land Surface Temperature (LST) and Land Cover for Urban Heat Island (UHI) Analysis in Cebu City, Philippines
+### Land Surface Temperature (LST) and Land Use/Cover (LUC) for Urban Heat Island (UHI) Analysis in Cebu City, Philippines
 
 [Google Earth Engine Script](https://code.earthengine.google.com/d5b53a4438468c438273f85469d87002)
 
 
-The objective of this study is to evaluate the data of land cover and **Land Surface Temperature** (LST) responsible for causing **Urban Heat Island** (UHI) effect. The study on the land surface temperature of Cebu City, a fast growing and well-planned example of industrial city will be carried out using the satellite data collected over the years from 2018-2023. Mapping of these urban mass in correlation to open spaces based on the patterns of urban development and land surface temperature will give an **understanding of the microclimate and its effect on the environment**.
+The objective of this study is to evaluate the data of **Land Use/Cover** (LUC) and **Land Surface Temperature** (LST) responsible for causing **Urban Heat Island** (UHI) effect. The study on the land surface temperature of Cebu City, a fast growing and well-planned example of industrial city will be carried out using the satellite data collected over the years from 2018-2023. Mapping of these urban mass in correlation to open spaces based on the patterns of urban development and land surface temperature will give an **understanding of the microclimate and its effect on the environment**.
 
 
 ### Exscort - Disaster Navigation App
