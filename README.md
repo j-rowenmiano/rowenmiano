@@ -33,9 +33,11 @@ Academic, STEM | Babag National Senior High School (_August 2021_)
 
 ## Projects
 
-### Temporal Analysis of Heat Index Variability in Cebu City, Philippines: Insights from 2017-2023
+### Land Surface Temperature (LST) and Land Cover for Urban Heat Island (UHI) Analysis in Cebu City, Philippines
 
-Assessing the heat index of Cebu City for a span of 6 years, applying exploratory data analysis and time series in **Python** to explore patterns and trends for the past couple years and predict heat index values for the following years.
+The objective of this study is to evaluate the data of land cover and **Land Surface Temperature** (LST) responsible for causing **Urban Heat Island** (UHI) effect. The study on the land surface temperature of Cebu City, a fast growing and well-planned example of industrial city will be carried out using the satellite data collected over the years from 2018-2023. Mapping of these urban mass in correlation to open spaces based on the patterns of urban development and land surface temperature will give an **understanding of the microclimate and its effect on the environment**.
+
+[GEE Script](https://code.earthengine.google.com/d5b53a4438468c438273f85469d87002)
 
 
 ### Exscort - Disaster Navigation App
