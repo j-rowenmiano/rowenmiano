@@ -67,25 +67,25 @@ Fabricated a drowsiness detection system embedded in a watch-like device through
 
 ## Honors and Awards
 
-🥉 ### 3rd Place - CTU Blockchain Ideathon
+### 3rd Place - CTU Blockchain Ideathon
 
-🥇 ### Champion - Premier SciTech Olympiad
+### Champion - Premier SciTech Olympiad
 
-🎖️ ### Semi-Finalist - Solve: Solutions Challenge Visayas
+### Semi-Finalist - Solve: Solutions Challenge Visayas
 
-🥈 ### 2nd Runner Up - Math-Stat Intercollegiate Quizzard
+### 2nd Runner Up - Math-Stat Intercollegiate Quizzard
 
-🥈 ### 2nd Runner Up - DOST SA CEBU Panem Quest: An Intercollegiate Battle of Scholarly Tributes
+### 2nd Runner Up - DOST SA CEBU Panem Quest: An Intercollegiate Battle of Scholarly Tributes
 
-🥇 ### Champion - Survey Making Contest, 34th National Statistics Month
+### Champion - Survey Making Contest, 34th National Statistics Month
 
-🎖️ ### Top 3 Regional Finalist - SIBOL Outstanding Student Creative Research High School Category, Regional Inventions and Contest Exhibits by Cluster (ClusteRICE)
+### Top 3 Regional Finalist - SIBOL Outstanding Student Creative Research High School Category, Regional Inventions and Contest Exhibits by Cluster (ClusteRICE)
 
-🎖️ ### Best Research Presenter - Babag National High School 4th Research Congress
+### Best Research Presenter - Babag National High School 4th Research Congress
 
-🥉 ### 3rd Place - TUKLAS Life Science Research, Division Science and Technology Fair 2023
+### 3rd Place - TUKLAS Life Science Research, Division Science and Technology Fair 2023
 
-🎖️ ### National Finalist - LIKHA Mathematical and Computational Science Research, National Science and Technology Fair 2022
+### National Finalist - LIKHA Mathematical and Computational Science Research, National Science and Technology Fair 2022
 
-🥇 ### Champion - LIKHA Mathematical and Computational Science Research, Regional Science and Technology Fair 2022
+### Champion - LIKHA Mathematical and Computational Science Research, Regional Science and Technology Fair 2022
 
